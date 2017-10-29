@@ -1,8 +1,10 @@
 # Resume
-One page Resume website.
+One page Resume website template.
 
 # How to use
 
+1. Clone this repository.
+1. Create a favicon for your site
 
 
 
